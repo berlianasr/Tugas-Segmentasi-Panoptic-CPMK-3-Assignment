@@ -6,6 +6,8 @@ Visi Komputer (N)(RKA)
 
 **Tugas Evaluasi CPMK 3 — Visi Komputer (EA234503), ITS**  
 **Eksperimen NRP berakhiran 3: proporsi data latih 25%, 50%, dan 100%**
+**Evidence Hasil: https://drive.google.com/drive/folders/1qLUGzG1k9asqfHwWNbJYnYvHlESK_MhI?usp=sharing**
+
 
 ## Ringkasan
 
